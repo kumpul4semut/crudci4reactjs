@@ -11,3 +11,8 @@
 
 - start server `php spark serve`
 - for edit react file run `webpack --watch`
+
+[Full Tutorial](https://www.youtube.com/playlist?list=PL8xqIegYEJ3OjP4Y2UZ2v9NqL5dDmc06W)
+[Youtube](https://www.youtube.com/c/ofkumpul4semut)
+[Blog / Website](https://kumpul4semut.com/)
+[Facebook](https://fb.me/kumpul4semut)
